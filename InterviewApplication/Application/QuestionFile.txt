@@ -1,0 +1,27 @@
+Java|Which keyword is used by method to refer to the object that invoked it?|import|catch|abstract|this|this|1
+SQL|The SQL WHERE clause:|limits the column data that are returned.|limits the row data are returned.|Both A and B are correct.|Neither A nor B are correct.|limits the row data are returned.|3
+SQL|The command to eliminate a table from a database is:|REMOVE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|DELETE TABLE CUSTOMER|UPDATE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|3
+Java|Which of these cannot be declared static?|class|object|variable|method|object|1
+Java|Which of these is not a bitwise operator?|&|&=|\=|<=|<=|1
+Python|Which of the following commands will create a list ?|list1 = list()|list1 = []|list1 = list([1, 2, 3])|list1 = [1, 2, 3]|list1 = [1, 2, 3]|2
+Python|What is the output when we execute list(“hello”)?|['h', 'e', 'l', 'l', 'o']|['hello']|['llo']|list1 = [1, 2, 3]|['olleh']|2
+Python|What is the return type of function id ?|int|float|bool|dict|int|2
+SQL|The command to eliminate a table from a database is:|REMOVE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|DELETE TABLE CUSTOMER|UPDATE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|3
+SQL|ON UPDATE CASCADE ensures which of the following?|Normalization|Data Integrity|Materialized Views|All of the above.|Data Integrity|3
+Java|Which keyword is used by method to refer to the object that invoked it?|import|catch|abstract|this|this|1
+Python|What dataype is the object below ? L = [1, 23, 'hello', 1]|List|dictionary|array|tuple|List|2
+Python|What is the return value of trunc() ?|int|bool|float|none|int|2
+Java|Which of the following is a method having same name as that of its class?|finalize|delete|class|constructor|constructor|1
+Java|Which of these is used to access member of class before object of that class is created?|public|private|static|protected|static|1
+Python|What dataype is the object below ? L = [1, 23, 'hello', 1]|List|dictionary|array|tuple|List|2
+Python|What is the return value of trunc() ?|int|bool|float|none|int|2
+SQL|You can add a row using SQL in a database with which of the following?|ADD|CREATE|INSERT|MAKE|INSERT|3
+SQL|The command to remove rows from a table 'CUSTOMER' is:|REMOVE FROM CUSTOMER ...|DROP FROM CUSTOMER ...|DELETE FROM CUSTOMER WHERE ...|UPDATE FROM CUSTOMER ...|DELETE FROM CUSTOMER WHERE ...|3
+SQL|The SQL WHERE clause:|limits the column data that are returned.|limits the row data are returned.|Both A and B are correct.|Neither A nor B are correct.|limits the row data are returned.|3
+SQL|The command to eliminate a table from a database is:|REMOVE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|DELETE TABLE CUSTOMER|UPDATE TABLE CUSTOMER;|DROP TABLE CUSTOMER;|3
+SQL|ON UPDATE CASCADE ensures which of the following?|Normalization|Data Integrity|Materialized Views|All of the above.|Data Integrity|3
+SQL|ON UPDATE CASCADE ensures which of the following?|Normalization|Data Integrity|Materialized Views|All of the above.|Data Integrity|3
+Java|Which keyword is used by method to refer to the object that invoked it?|import|catch|abstract|this|this|1
+Python|What dataype is the object below ? L = [1, 23, 'hello', 1]|List|dictionary|array|tuple|List|2
+Python|What is the return value of trunc() ?|int|bool|float|none|int|2
+Java|Which of the following is a method having same name as that of its class?|finalize|delete|class|constructor|constructor|1
